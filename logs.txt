@@ -1,0 +1,23 @@
+commit 77a0d7b4917c8706a3d02b3e9c1b7b8d9e30c556
+Author: dhartaros <frankvaldez@outlook.com>
+Date:   Tue Oct 4 11:40:46 2016 -0600
+
+    se corrigieron los errores de las descripciones
+
+commit 275de0fafd79fd266e89c5b6b3ddd953c026e242
+Author: dhartaros <frankvaldez@outlook.com>
+Date:   Tue Oct 4 11:36:15 2016 -0600
+
+    se añadie el footer
+
+commit d77efffcf00f92b5a311fdead6481badc5cc01de
+Author: dhartaros <frankvaldez@outlook.com>
+Date:   Mon Oct 3 11:53:28 2016 -0600
+
+    Se agregó Bootstrap
+
+commit cb4f83e650e4b5e6cb3165a12e5ad814434b57be
+Author: dhartaros <frankvaldez@outlook.com>
+Date:   Mon Oct 3 11:44:25 2016 -0600
+
+    Estructura inicial
